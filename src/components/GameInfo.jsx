@@ -32,7 +32,7 @@ export default function GameInfoFooter() {
             "My Pacar Ku Ngambek" - Typing Game
         </p>
         <p>
-            Dibuat dengan ❤️ oleh Nakhalan Atqiya | 2025
+            Dibuat dengan ❤️ oleh Vynn4Youu | 2025
         </p>
       </footer>
     </div>
